@@ -8,3 +8,4 @@ I am Thasin Chowdhury Upoma. While I may not consider myself an expert problem s
 - Check out my CV here : https://cvupoma.netlify.app
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upomathasin&hide_progress=true)
