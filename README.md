@@ -9,3 +9,6 @@ I am Thasin Chowdhury Upoma. While I may not consider myself an expert problem s
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upomathasin&hide_progress=true)
+
+![Resume_Upoma-1](https://github.com/upomathasin/upomathasin/assets/67595090/4b06ec51-8ea3-4ff5-a323-642728d797d1)
+
