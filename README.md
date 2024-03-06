@@ -4,8 +4,10 @@ I'm Thasin Chowdhury Upoma, a focused web developer with proficiency in HTML, CS
 
 - 🧠 I'm currently learning Next JS
 - 💬 Ask me about my projects
-- 📫 How to reach me: https://www.linkedin.com/in/thasin-upoma-452403216/
+- 📫 How to reach me: tahsinchowdhuryupoma@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upomathasin&hide_progress=true)
+![upomathasin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=upomathasin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=upomathasin&show_icons=true&theme=transparent)
+![upomathasin's Stats](https://github-readme-stats.vercel.app/api?username=upomathasin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![upomathasin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=upomathasin&theme=vue-dark&hide_border=true)
