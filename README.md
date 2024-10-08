@@ -1,10 +1,7 @@
 ### Hi there 👋
+I'm Thasin Chowdhury Upoma, a Junior AI/ML Engineer at Indetech Software Ltd., specializing in computer vision. After gaining initial experience in web development, I have shifted my focus entirely to AI/ML. Currently, I'm working on exciting AI projects and continuously expanding my knowledge in machine learning and its applications.
 
-I'm Thasin Chowdhury Upoma, a focused web developer with proficiency in HTML, CSS, JavaScript and React.js. My experience includes working on multiple projects using React.js, Express.js, and MongoDB. Currently honing my skills with ongoing React projects, I am actively seeking entry-level job opportunities or internships in the web development domain. Let's connect and explore potential collaborations.
-
-- 🧠 I'm currently learning Next JS
-- 💬 Ask me about my projects
-- 📫 How to reach me: tahsinchowdhuryupoma@gmail.com
+  📫 Reach me at: tahsinchowdhuryupoma@gmail.com
 
 ![upomathasin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=upomathasin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
