@@ -7,4 +7,3 @@ I'm Thasin Chowdhury Upoma, a Junior AI/ML Engineer at Indetech Software Ltd., s
 
 ![upomathasin's Stats](https://github-readme-stats.vercel.app/api?username=upomathasin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![upomathasin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=upomathasin&theme=vue-dark&hide_border=true)
